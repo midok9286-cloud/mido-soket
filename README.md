@@ -7,7 +7,7 @@
     <a href="https://t.me/+fgK29Mn9MFc3MDY0" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-Group-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=10151a" alt="Telegram Group">
     </a>
-    <a href="https://t.me/Midoxkill" target="_blank">
+    <a href="https://t.me/SingabxMido" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0f1621" alt="Telegram Channel">
     </a>
     &nbsp;&nbsp;
