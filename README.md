@@ -15,7 +15,7 @@
       <img src="https://img.shields.io/badge/WhatsApp-Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0f3f30" alt="WhatsApp Channel">
     </a>
     &nbsp;&nbsp;
-    <a href="https://youtube.com/@midobot" target="_blank">
+    <a href="https://youtube.com/@mk jh fgj" target="_blank">
       <img src="https://img.shields.io/badge/YouTube-@dgxeon-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=330000" alt="YouTube">
     </a>
     &nbsp;&nbsp;
